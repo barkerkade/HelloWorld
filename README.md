@@ -6,13 +6,14 @@ This a simple program to print 'Hello World'
 
 Steps to build and/or run the software:
 
-1. First step here
-2.
-3.
+1. Make sure to have python installed on your device.
+2. Clone the repository to your device.
+3. Open the Hello.py file.
+4. Click the run button.
 
 Instructions for using the software:
 
-1. First step here
+1. Press the run button in the IDE that you are using.
 2.
 3.
 
@@ -20,15 +21,15 @@ Instructions for using the software:
 
 To recreate the development environment, you need the following software and/or libraries with the specified versions:
 
-* First thing here
-*
+* Python
+* An IDE
 *
 
 ## Useful Websites to Learn More
 
 I found these websites useful in developing this software:
 
-* [Website Title](Link)
+* gemini.google.com
 *
 *
 
@@ -36,6 +37,6 @@ I found these websites useful in developing this software:
 
 The following items I plan to fix, improve, and/or add to this project in the future:
 
-* [ ] First thing here
-* [ ]
-* [ ]
+* [ ] Learn how to connect the github repository.
+* [ ] Learn to use the VS Community IDE.
+* [ ] Learn how to use different languages.
